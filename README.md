@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cypress web automation<br>👯 I’m looking to collaborate on Cypress and Selenium UI testing<br>🤝 I’m looking for help with Appium mobile testing<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about anything!<br>⚡ Fun fact" I am a QA Engineer with B.A. background
+🔭 I’m currently working on Cypress web automation<br>👯 I’m looking to collaborate on Cypress and Selenium UI testing<br>🤝 I’m looking for help with Appium mobile testing<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about anything!<br>⚡ Fun fact: I am a QA Engineer with B.A. background
 
 
 ## 🌐 Socials:
